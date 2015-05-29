@@ -1,0 +1,68 @@
+module.exports = {
+	"26": {
+
+		accountNumber: 0,
+		premiseNumber: 1,
+		customerName: 2,
+		mailAttentionTo: 3,
+		mailAddress: 4,
+		mailCity: 5,
+		mailState: 6,
+		mailZip: 7,
+		serviceAddress: 8,
+		additionalAddress: 9,
+		serviceCity: 10,
+		serviceState: 11,
+		serviceZip: 12,
+		revenueYearMonth: 13,
+		utilityCode: 14,
+		serviceId: 15,
+		rate: 16,
+		meter: 17,
+		usage: 18,
+		amount: 19,
+		typeCode: 20,
+		adjustmentCode: 21,
+		days: 22,
+		startDate: 23,
+		endDate: 24,
+		serviceType: 25
+	},
+	"20": {
+		premiseNumber: 0,
+		accountNumber: 1,
+		customerName: 2,
+		revenueYearMonth: 3,
+		utilityCode: 4,
+		serviceId: 5,
+		rate: 6,
+		meter: 7,
+		usage: 8,
+		additionalUsage: 9,
+		demandUsage: 10,
+		serviceAddress: 11,
+		additionalAddress: 12,
+		serviceCity: 13,
+		mailAdrress: 14,
+		mailCity: 15,
+		mailStateCode: 16,
+		mailZipCode: 17,
+		startDate: 18,
+		endDate: 19
+	}, 
+	"11":{
+		accountNumber: 0, 
+		premiseNumber: 1, 
+		revenueYearMonth: 2,
+		billDate: 3, 
+		startDate: 4, 
+		endDate: 5, 
+		recordTypeCode: 6, 
+		description: 7, 
+		chargeQuantity: 8, 
+		amount: 9, 
+		fixChargeRate: 10
+	}
+
+
+};
